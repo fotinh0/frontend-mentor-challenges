@@ -2,10 +2,15 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
+# Frontend Mentor - 3-column preview card component solution
+
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
+
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,10 +28,14 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+### Screenshots
+
+![3-column-preview-card-screenshot](https://user-images.githubusercontent.com/67170897/131262321-d2fb43b2-65c9-42e3-a322-81a73db342f3.JPG)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fotinh0/Frontend-Mentor-3-column-preview-card-component](https://github.com/fotinh0/Frontend-Mentor-3-column-preview-card-component)
+- Live Site URL: [https://frontend-mentor-3-column-preview-card-component.netlify.app/](https://frontend-mentor-3-column-preview-card-component.netlify.app/)
 
 ## My process
 
@@ -38,7 +47,6 @@ I started by analyzing the layout of the preview design and planned out how to s
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
@@ -50,9 +58,9 @@ I am working on further developng my understanding and knowledge of media querie
 
 ### Useful resources
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Media_objects) - This helped me with better undestanding the use of media queries.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Media_objects)
 
-- [DevDocs.io](https://devdocs.io/css/) - This is a very useful documentation site which I used to review specific CSS syntax. Highly recommended!
+- [DevDocs.io](https://devdocs.io/css/)
 
 ## Author
 

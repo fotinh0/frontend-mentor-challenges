@@ -6,6 +6,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,10 +22,14 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
 
+### Screenshots
+
+![single-price-grid-screenshot](https://user-images.githubusercontent.com/67170897/131262376-00267bde-1e5e-44d5-b852-764eaa6f883f.JPG)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fotinh0/Frontend-Mentor-single-price-grid](https://github.com/fotinh0/Frontend-Mentor-single-price-grid)
+- Live Site URL: [https://frontend-mentor-single-price-grid.netlify.app/](https://frontend-mentor-single-price-grid.netlify.app/)
 
 ## My process
 
@@ -34,7 +39,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### Useful resources
 
@@ -47,4 +51,3 @@ Users should be able to:
 - GitHub - [@Fotinh0](https://github.com/fotinh0)
 - Frontend Mentor - [@fotinh0](https://www.frontendmentor.io/profile/fotinh0)
 - LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
-

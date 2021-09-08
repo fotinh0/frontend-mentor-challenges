@@ -31,7 +31,7 @@ img {
 
 /*************************************CLASS SELECTORS********************************/
 .container {
-    margin: 10rem auto;
+    margin: 15rem auto;
     text-align: center;
     width: 80%;
 }
@@ -60,7 +60,7 @@ img {
 
 .main-heading {
     color: var(--color-white-opaque);
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     line-height: 1.3;
 }
 
@@ -133,7 +133,7 @@ img {
     }
   
     .img-header {
-        background-image: url("../images/image-header-desktop.jpg");
+        background-image: url('../images/image-header-desktop.jpg');
         background-position: top;
         border-radius: 0 8px 8px 0;
         height: 100%;

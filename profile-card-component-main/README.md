@@ -6,6 +6,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,18 +15,20 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
 - Build out the project to the designs provided
 
+### Screenshots
+
+![profile-card-screenshot](https://user-images.githubusercontent.com/67170897/131262226-92277800-2230-43a9-a9f8-396d62f6ede8.JPG)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fotinh0/Frontend-Mentor-profile-card-component](https://github.com/fotinh0/Frontend-Mentor-profile-card-component)
+- Live Site URL: [https://frontend-mentor-profile-card-component-fc.netlify.app/](https://frontend-mentor-profile-card-component-fc.netlify.app/)
 
 ## My process
 
@@ -37,7 +40,6 @@ I started by analyzing the layout of the preview design and planned out how to s
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 

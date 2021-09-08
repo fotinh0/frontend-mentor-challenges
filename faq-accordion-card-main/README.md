@@ -6,6 +6,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,10 +23,14 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
+### Screenshots
+
+![faq-accordion-screenshot](https://user-images.githubusercontent.com/67170897/131262006-19819896-ab1f-4bf6-9e71-e058e6ff1c82.JPG)
+
 ### Links
 
-- Solution URL: [](https://github.com/fotinh0/Frontend-Mentor-faq-accordion-card)
-- Live Site URL: [](https://fotinh0.github.io/Frontend-Mentor-faq-accordion-card/)
+- Solution URL: [https://github.com/fotinh0/Frontend-Mentor-faq-accordion-card](https://github.com/fotinh0/Frontend-Mentor-faq-accordion-card)
+- Live Site URL: [https://frontend-mentor-faq-accordion-card.netlify.app/](https://frontend-mentor-faq-accordion-card.netlify.app/)
 
 ## My process
 
@@ -48,4 +53,3 @@ I started by analyzing the layout of the preview design and planned out how to s
 - GitHub - [@Fotinh0](https://github.com/fotinh0)
 - Frontend Mentor - [@fotinh0](https://www.frontendmentor.io/profile/fotinh0)
 - LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
-

@@ -6,6 +6,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,10 +23,14 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
+### Screenshots
+
+![stats-preview-card-screenshot](https://user-images.githubusercontent.com/67170897/131262168-25dffad7-a96c-447b-9cd2-853c96eee700.JPG)
+
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/fotinh0/stats-preview-card-component)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fotinh0/Frontend-Mentor-stats-preview-card-component](https://github.com/fotinh0/Frontend-Mentor-stats-preview-card-component)
+- Live Site URL: [https://frontend-mentor-stats-preview-card-component.netlify.app/](https://frontend-mentor-stats-preview-card-component.netlify.app/)
 
 ## My process
   
@@ -37,7 +42,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
@@ -57,4 +61,4 @@ I am still working on further developng my understanding and knowledge of media 
 
 - GitHub - [@Fotinh0](https://github.com/fotinh0)
 - Frontend Mentor - [@fotinh0](https://www.frontendmentor.io/profile/fotinh0)
-- LinkedIn - [@Foti-Ceci]https://www.linkedin.com/in/foti-ceci/)
+- LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
