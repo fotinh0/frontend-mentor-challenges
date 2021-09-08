@@ -28,7 +28,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/Frontend-Mentor-profile-card-component](https://github.com/fotinh0/Frontend-Mentor-profile-card-component)
-- Live Site URL: [https://frontend-mentor-profile-card-component-fc.netlify.app/](https://frontend-mentor-profile-card-component-fc.netlify.app/)
+- Live Site URL: [https://frontend-mentor-profile-card-component-fc.netlify.app/](https://frontend-mentor-profile-card-component-fc.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b2214de7-603f-4165-967c-8d125768e890/deploy-status)](https://app.netlify.com/sites/frontend-mentor-faq-accordion-card/deploys)
 
 ## My process
 

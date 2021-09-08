@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/Frontend-Mentor-3-column-preview-card-component](https://github.com/fotinh0/Frontend-Mentor-3-column-preview-card-component)
-- Live Site URL: [https://frontend-mentor-3-column-preview-card-component.netlify.app/](https://frontend-mentor-3-column-preview-card-component.netlify.app/)
+- Live Site URL: [https://frontend-mentor-3-column-preview-card-component.netlify.app/](https://frontend-mentor-3-column-preview-card-component.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b2214de7-603f-4165-967c-8d125768e890/deploy-status)](https://app.netlify.com/sites/frontend-mentor-faq-accordion-card/deploys)
 
 ## My process
 

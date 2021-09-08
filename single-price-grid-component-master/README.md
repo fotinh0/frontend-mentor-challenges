@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/Frontend-Mentor-single-price-grid](https://github.com/fotinh0/Frontend-Mentor-single-price-grid)
-- Live Site URL: [https://frontend-mentor-single-price-grid.netlify.app/](https://frontend-mentor-single-price-grid.netlify.app/)
+- Live Site URL: [https://frontend-mentor-single-price-grid.netlify.app/](https://frontend-mentor-single-price-grid.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b2214de7-603f-4165-967c-8d125768e890/deploy-status)](https://app.netlify.com/sites/frontend-mentor-faq-accordion-card/deploys)
 
 ## My process
 
