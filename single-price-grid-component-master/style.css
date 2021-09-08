@@ -1,0 +1,146 @@
+/***************** VARIABLES ********************************/
+:root {
+    --cyan: hsl(179, 62%, 43%);
+    --faded-cyan: hsl(179, 62%, 46%);
+    --bright-yellow: hsl(71, 73%, 54%);
+    --light-gray: hsl(204, 43%, 93%);
+    --grayish-blue: hsl(218, 22%, 67%);
+
+}
+
+/***************** DEFAULTS ********************************/
+*{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+}
+/***************** TAG SELECTORS ********************************/
+body {
+    background-color: var(--light-gray);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Karla', sans-serif;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+main {
+    background-color:#ffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.35);
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    padding: 40px;
+}
+
+h1 {
+    color: var(--cyan);
+    font-size: 2.125rem;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    opacity: 0.8;
+}
+
+li {
+    line-height: 1.625rem;
+    font-size: 1.1rem;
+}
+/***************** CLASS SELECTORS ********************************/
+.top-subtitle {
+    color: var(--bright-yellow);
+    margin-bottom: 20px;
+}
+
+.description {
+    color: var(--grayish-blue);
+    margin: 7px;
+    line-height: 1.5;
+}
+
+.row {
+    display: flex;
+}
+
+.row > section {
+    flex: 1;
+}
+
+.subscription {
+    background-color: var(--cyan);
+    color: #ffff;
+}
+
+.sub-price {
+    color: rgba(253, 253, 253, 0.5);
+    display: flex;
+    align-items: center;
+}
+
+.price {
+    color: #ffff;
+    font-size: 3.125rem;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: var(--bright-yellow);
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
+    color: #ffff;
+    font-family: 'Karla', sans-serif;
+	font-size: 1.125rem;
+	font-weight: 700;
+	padding: 20px 0;
+	margin-top: 40px;
+	width: 100%;
+}
+
+button:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.why-container {
+    background-color: var(--faded-cyan);
+    color:#ffff;
+}
+
+.attribution { 
+    font-size: 1rem; 
+    text-align: center;
+    bottom: 10px; 
+}
+.attribution a:hover { 
+    color: var(--cyan); 
+}
+
+
+@media screen and (max-width: 600px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .attribution {
+        text-align: center;
+        margin-top: 20px;
+    }
+}

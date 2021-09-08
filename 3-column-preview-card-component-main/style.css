@@ -1,0 +1,172 @@
+/***********************************VARIABLES******************************/
+:root {
+    --bright-orange: hsl(31, 77%, 52%);
+    --dark-cyan: hsl(184, 100%, 22%);
+    --very-dark-cyan: hsl(179, 100%, 13%);
+    --transparent-white: hsla(0, 0%, 100%, 0.75);
+    --very-light-gray: hsl(0, 0%, 95%);
+}
+
+/***********************************DEFAULTS******************************/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/***********************************TAG SELECTORS******************************/
+body {
+    background-color: var(--very-light-gray);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    overflow: auto;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+div {
+    max-width: 280px;
+    height: 480px;
+    padding: 2.635rem;
+    position: relative;
+}
+
+img {
+    margin-bottom: 25px;
+}
+
+h1 {
+    color: var(--very-light-gray);
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2.25rem;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    color: var(--transparent-white);
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+button {
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 25px 10px 25px;
+    width: 140px;
+    border-radius: 25px;
+    outline: none;
+    border: solid 2px var(--very-light-gray);
+    font-family: inherit;
+    top: 70px;
+}
+
+/***********************************CLASS SELECTORS******************************/
+
+.sedan {
+    background-color: var(--bright-orange);
+    border-radius: 10px 0 0 10px;
+}
+
+.suv {
+    background-color: var(--dark-cyan);
+}
+
+.luxury {
+    background-color: var(--very-dark-cyan);
+    border-radius: 0 10px 10px 0;
+}
+
+.sedan-btn {
+    color: var(--bright-orange);
+    background-color: var(--very-light-gray);
+}
+
+.sedan-btn:hover{
+    color: var(--very-light-gray);
+    background-color: var(--bright-orange);
+}
+
+.suv-btn {
+    color: var(--dark-cyan);
+    background-color: var(--very-light-gray);
+}
+
+.suv-btn:hover {
+    color: var(--very-light-gray);
+    background-color: var(--dark-cyan);
+}
+
+.luxury-btn {
+    color: var(--very-dark-cyan);
+    background-color: var(--very-light-gray);
+}
+
+.luxury-btn:hover {
+    color: var(--very-light-gray);
+    background-color: var(--very-dark-cyan);
+}
+
+.attribution { 
+    width: 100%;
+    margin: 0 auto;
+    position: absolute;
+    color: black;
+    bottom: 10px;
+    text-align: center;
+}
+
+.attribution p {
+    color: black;
+}
+
+.attribution a { 
+    color: hsl(228, 21%, 29%); 
+}
+
+
+@media only screen and (max-width: 844px) {
+    body {
+        display: flex;
+        width: 100%;
+        overflow: scroll;
+        flex-wrap: wrap;
+    }
+
+    main {
+        padding: 40px 0;
+    }
+
+    .sedan {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px;
+    }
+
+    .luxury {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top-right-radius: 0px;
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+
+    .attribution {
+        position: relative;
+        width: auto;
+        padding-bottom: 10px;
+    }
+}

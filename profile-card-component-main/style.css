@@ -1,0 +1,143 @@
+/****************************** VARIABLES *******************************/
+:root {
+    --dark-cyan: hsl(185, 75%, 39%);
+    --very-dark-desaturated-blue: hsl(229, 27%, 15%);
+    --dark-grayish-blue: hsl(227, 10%, 46%);
+    --dark-grey: hsl(0, 0%, 59%);
+}
+
+/****************************** DEFAULTS *******************************/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/****************************** TAG SELECTORS *******************************/
+body {
+    background-color: var(--dark-cyan);
+    display: flex;
+    font-family: "Kumbh Sans", Helvetica, sans-serif;
+    font-size: 1.125rem;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+img {
+    border: 5px solid white;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+main {
+    background-color: white;
+    border-radius: 12px;
+    color: var(--dark-grayish-blue);
+    height: 375px;
+    width: 350px;
+    max-width: 90%;
+    overflow: hidden;
+    z-index: 1;
+}
+
+h1 {
+    font-size: 1.2rem;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+/****************************** CLASS SELECTORS *******************************/
+.background {
+    position: absolute;
+    width: 200%;
+    height: 150%;
+}
+
+.img-top {
+    background: url(images/bg-pattern-top.svg) no-repeat right bottom;
+    top: -160%;
+    left: -250%;
+    transform: translate(50%, 50%);
+}
+
+.img-bottom {
+    background: url(images/bg-pattern-bottom.svg) no-repeat left top;
+    bottom: -175%;
+    right: -40%;
+    width: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.section-top {
+    background: url(images/bg-pattern-card.svg) no-repeat center top;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 284px;
+}
+
+.profile {
+    font-weight: 700;
+    position: absolute;
+    top: 77%;
+}
+
+.profile span {
+    color: var(--dark-grey);
+    font-weight: 400;
+}
+
+.location {
+    color: var(--dark-grey);
+    font-size: 1rem;
+    position: absolute;
+    top: 88%;
+}
+
+.section-bottom {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100px;
+    justify-content: space-evenly;
+}
+
+.stat {
+    font-weight: 700;
+    text-align: center;
+}
+
+.stat-description {
+    color: var(--dark-grey);
+    display: block;
+    font-size: 0.65rem;
+    letter-spacing: 2px;
+    margin-top: 0.25rem;
+    text-align: center;
+}
+
+.attribution {
+    font-size: 0.625rem;
+    position: absolute;
+    bottom: 30px;
+    text-align: center;
+}
+
+.attribution a {
+    color: white;
+}
+
+@media only screen and (max-width: 425px) {
+    .img-bottom {
+        bottom: -185%;
+        right: -40%;
+        height: 160%;
+        width: 70%;
+    }
+}
