@@ -1,0 +1,13 @@
+# Frontend Mentor Challenges
+
+This repository includes my solutions to projects from [Frontend Mentor](https://www.frontendmentor.io/). 
+
+Suggestions and critiques to improve my code are highly appreciated!
+
+| Languages   | Challenge | Live | Code |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| HTML/CSS    | [Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)                                        | [Live](https://frontend-mentor-single-price-grid.netlify.app/)         | [Code](https://github.com/fotinh0/Frontend-Mentor-single-price-grid)                                 |
+| HTML/CSS    | [3-column Preview Card Compoent](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)                                                 | [Live](https://frontend-mentor-3-column-preview-card-component.netlify.app/)          | [Code](https://github.com/fotinh0/Frontend-Mentor-3-column-preview-card-component)              |                             |
+| HTML/CSS    | [Stats Preview Card Component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)                                                    | [Live](https://frontend-mentor-stats-preview-card-component.netlify.app/)                 | [Code](https://github.com/fotinh0/Frontend-Mentor-stats-preview-card-component)                           |                               |
+| HTML/CSS | [Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                    | [Live](https://frontend-mentor-profile-card-component-fc.netlify.app/)    | [Code](https://github.com/fotinh0/Frontend-Mentor-profile-card-component)
+| HTML/CSS/JS | [FAQ Accordion Card](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)                                                                         | [Live](https://frontend-mentor-faq-accordion-card.netlify.app/)        | [Code](https://github.com/fotinh0/Frontend-Mentor-faq-accordion-card)
